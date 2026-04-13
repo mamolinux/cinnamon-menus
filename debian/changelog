@@ -1,3 +1,14 @@
+cinnamon-menus (6.7.0) unstable; urgency=medium
+
+  [ Michael Webster ]
+  * Add stale issue workflow.
+  * stale: Add more options to inactivity days.
+  * stale.yml: Enable cron job.
+  * stale.yml: Remove leftover comment.
+  * .github/workflows: Add generate-test-packages trigger.
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 13 Apr 2026 08:18:03 +0100
+
 cinnamon-menus (6.6.0) zena; urgency=medium
 
   * 6.6.0
